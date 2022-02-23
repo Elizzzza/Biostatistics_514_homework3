@@ -54,10 +54,10 @@ Springer Link.
  
 ### Q5 – 2D summaries 
 The course site contains a file of survival data from a long-term randomized trial. The variables are; 
-- *id*: Participant ID 
-- *time*: time (in years) to death, or censoring 
-- *event*: indicator variable for death; 1 indicates death, 0 indicates censoring. You should assume that for censored observations, survival after censoring is similar to survival for those who were not censored. (See slide 2.120 for why this matters) 
-- *treatment*: 1=new drug, 2=control drug 
+- ***id***: Participant ID 
+- ***time***: time (in years) to death, or censoring 
+- ***event***: indicator variable for death; 1 indicates death, 0 indicates censoring. You should assume that for censored observations, survival after censoring is similar to survival for those who were not censored. (See slide 2.120 for why this matters) 
+- ***treatment***: 1=new drug, 2=control drug 
 
 Plot Kaplan-Meier survival curves that summarize survival in the two treatment groups. Based on what 
 you see in the plot, describe how the two treatment groups compare, writing in minimally-technical 
